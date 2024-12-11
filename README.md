@@ -36,15 +36,18 @@ I conducted a comprehensive Governance, Risk, and Compliance (GRC) analysis to i
 ---
 
 ### 1. Full Project Overview
-![Risk Assessment Project](https://github.com/user-attachments/assets/98bacb46-f103-487d-8ac7-b67d8ddccc19)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/98bacb46-f103-487d-8ac7-b67d8ddccc19" alt="Risk Assessment Project" style="width:90%; max-width:1200px;">
+</div>
 
 *This image shows my entire risk assessment project, including all matrices and charts that I used for the analysis.*
 
 ---
 
 ### 2. Conducting a Risk Assessment
-![Risk Assessment Data](https://github.com/user-attachments/assets/7ae94b1d-7f72-4cd9-abc4-b42933d607ab)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0fcc0265-a1ab-4f42-a3d3-f28936e5324a" alt="Risk Assessment Data" style="width:90%; max-width:1200px;">
+</div>
 
 *Raw risk data before mitigation, highlighting the areas I identified for analysis.*
 
@@ -53,7 +56,9 @@ I conducted a comprehensive Governance, Risk, and Compliance (GRC) analysis to i
 ---
 
 ### 3. Pre-Mitigation Risk Matrix
-![Pre-Mitigation Matrix](https://github.com/user-attachments/assets/923b1852-537c-40e2-9d9b-121a69e2d530)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4e29b8f9-8e84-4612-8b4a-9421c801a76a" alt="Pre-Mitigation Matrix" style="width:60%; max-width:800px;">
+</div>
 
 *This matrix visually represents risk levels before I applied any mitigation efforts.*
 
@@ -62,7 +67,9 @@ I conducted a comprehensive Governance, Risk, and Compliance (GRC) analysis to i
 ---
 
 ### 4. Mitigation Plan
-![Mitigation Plan](https://github.com/user-attachments/assets/43709241-3960-4729-99cd-aa2ac3a61861)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bb1bc781-d7d5-493c-95ff-bd12465a5a52" alt="Mitigation Plan" style="width:90%; max-width:1200px;">
+</div>
 
 *This table outlines the mitigation strategies I developed for each identified risk.*
 
@@ -76,7 +83,9 @@ I conducted a comprehensive Governance, Risk, and Compliance (GRC) analysis to i
 ---
 
 ### 5. Post-Mitigation Risk Matrix
-![Post-Mitigation Matrix](https://github.com/user-attachments/assets/26a4a93a-77ec-45e0-8483-b8e14f31c703)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1bcd68fb-583b-40cd-889b-91ef4245f901" alt="Post-Mitigation Matrix" style="width:60%; max-width:800px;">
+</div>
 
 *This matrix shows the risk levels after I applied my mitigation strategies.*
 
@@ -85,7 +94,9 @@ I conducted a comprehensive Governance, Risk, and Compliance (GRC) analysis to i
 ---
 
 ### 6. Additional Insights
-![Other Data](https://github.com/user-attachments/assets/acc2e699-5f33-4205-8bbd-6e5e92770f5d)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aef93a2f-bdf1-4c21-8f9e-66e68e0aeb0a" alt="Other Data" style="width:90%; max-width:1200px;">
+</div>
 
 *This image shows the distribution of risks after mitigation and a comparison of risk levels before and after mitigation.*
 
